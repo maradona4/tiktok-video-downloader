@@ -1,4 +1,4 @@
-const needle = require('./needle');
+const needle = require('needle');
 const { load } = require('cheerio');
 const fs = require('fs');
 
