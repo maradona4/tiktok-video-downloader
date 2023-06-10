@@ -1,7 +1,7 @@
 {
   "name": "tiktok-video-downloader",
-  "version": "1.0.4",
-  "description": "TikTok video downloader scrapper. Scrap data from a TikTok video downloader and get direct info & url links from your media",
+  "version": "1.0.5",
+  "description": "TikTok video downloader scrapper. Colete dados de um downloader de vídeo TikTok e obtenha informações diretas e links de URL de sua mídia",
   "keywords": [
     "tiktok",
     "download",
@@ -10,9 +10,9 @@
     "tiktok-down",
     "tiktok-info"
   ],
-  "homepage": "https://github.com/Aromakelapa/tiktok-video-downloader",
+  "homepage": "https://github.com/maradona4/tiktok-video-downloader",
   "bugs": {
-    "url": "https://github.com/Aromakelapa/tiktok-video-downloader/issues"
+    "url": "https://github.com/maradona4/tiktok-video-downloader/issues"
   },
   "main": "index.js",
   "type": "commonjs",
@@ -21,9 +21,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aromakelapa/tiktok-video-downloader.git"
+    "url": "https://github.com/maradona4/tiktok-video-downloader.git"
   },
-  "author": "Aromakelapa",
+  "author": "maradona4",
   "license": "MIT",
   "private": false,
   "engines": {
