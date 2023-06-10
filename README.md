@@ -4,8 +4,8 @@ Colete dados de um downloader de vídeo TikTok e obtenha informações diretas e
 ## Instalar os módulos.
 ```
 npm install tiktok-video-downloader
-npm i needle
-mpm i cheerio
+npm install needle
+mpm install cheerio
 ```
 
 ## Changelog
