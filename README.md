@@ -1,9 +1,11 @@
 # Tiktok Video Downloader Scrapper
 Colete dados de um downloader de vídeo TikTok e obtenha informações diretas e links de URL do seu vídeo TikTok
 
-## Instalar
+## Instalar os módulos.
 ```
 npm install tiktok-video-downloader
+npm i needle
+mpm i cheerio
 ```
 
 ## Changelog
