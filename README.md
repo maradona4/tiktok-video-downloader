@@ -1,20 +1,19 @@
 # Tiktok Video Downloader Scrapper
-Scrap data from a TikTok video downloader and get direct info & url links from your TikTok video
+Colete dados de um downloader de vídeo TikTok e obtenha informações diretas e links de URL do seu vídeo TikTok
 
-## Install
+## Instalar
 ```
 npm install tiktok-video-downloader
 ```
 
 ## Changelog
 > ### v1.0.4
-- Fix return undefined.
-- Thumbnail still `undefined`, i'll fix asap.
+- Corrige return indefinido.
+- Thumbnail ainda `undefined`, vou consertar o mais rápido possível.
 
-## Usage
+## Usado
 ```
 const ttdl =  require("tiktok-video-downloader");
-
 const link = "https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531"
 
 ttdl.getInfo(link)
@@ -23,9 +22,4 @@ ttdl.getInfo(link)
   })
 ```
 
-## Issues & Contact
-> Create issue session in [Github Repo](https://github.com/Aromakelapa/tiktok-video-downloader/issues)
-
-> You can reach me on [Telegram](https://t.me/Aromakelapa)
-
-### Thanks for using my module, Hope you forgive me if it shows an error, because I'm newbie at this :>
+### Obrigado por usar meu módulo, espero que me perdoe se mostrar um erro, porque sou novato nisso :>
